@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "dependencies": {
+    "io-ts": "1.8.1",
+    "io-ts-types": "0.4.2"
+  }
+}
